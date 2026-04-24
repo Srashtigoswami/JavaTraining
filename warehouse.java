@@ -5,6 +5,7 @@ public class warehouse {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter total no. of items:");
         int items=sc.nextInt();
+        blah blah
     }
     
 }
